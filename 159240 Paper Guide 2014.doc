@@ -1,0 +1,238 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset128 Times New Roman;}{\f4\froman\fprq0\fcharset128 New York;}{\f5\fswiss\fprq0\fcharset128 New York;}{\f6\froman\fprq0\fcharset128 Times New Roman;}{\f7\froman\fprq0\fcharset128 Arial;}{\f8\fswiss\fprq0\fcharset128 Arial;}{\f9\fnil\fprq0\fcharset128 Droid Sans Fallback;}{\f10\fnil\fprq0\fcharset128 Times New Roman Cyr;}{\f11\fnil\fprq0\fcharset128 Lohit Hindi;}{\f12\fnil\fprq0\fcharset128 Times New Roman;}{\f13\fnil\fprq0\fcharset128 Arial;}}
+{\colortbl;\red0\green0\blue0;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129 Normal;}
+{\s1\sbasedon15\snext16\ilvl0\outlinelevel0\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\ltrpar\cf0\b\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\ab\loch\f5\fs24\lang2057 Heading 1;}
+{\s15\sbasedon0\snext16\ql\nowidctlpar\sb240\sa120\keepn\ltrpar\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs28\alang1081\loch\f8\fs28\lang5129 Heading;}
+{\s16\sbasedon0\snext16\ql\nowidctlpar\tx-720\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\cf0\i\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\ai\loch\f4\fs24\lang1033 Text body;}
+{\s17\sbasedon16\snext17\ql\nowidctlpar\tx-720\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\cf0\i\kerning1\hich\af9\langfe1033\dbch\af11\afs24\alang1025\ai\loch\f4\fs24\lang1033 List;}
+{\s18\sbasedon0\snext18\ql\nowidctlpar\sb120\sa120\noline\ltrpar\cf0\i\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\ai\loch\f6\fs24\lang5129 Caption;}
+{\s19\sbasedon0\snext19\ql\nowidctlpar\noline\ltrpar\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129 Index;}
+{\s20\sbasedon0\snext20\ql\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0\noline\ltrpar\cf0\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\loch\f4\fs24\lang1033 Footer;}
+{\s21\sbasedon0\snext21\ql\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0\noline\ltrpar\cf0\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\loch\f4\fs24\lang1033 Header;}
+{\s22\sbasedon15\snext23\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\ltrpar\cf0\b\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\ab\loch\f5\fs24\lang2057 Title;}
+{\s23\sbasedon15\snext16\qc\nowidctlpar\sb240\sa120\keepn\ltrpar\cf0\i\kerning1\hich\af9\langfe2052\dbch\af11\afs28\alang1081\ai\loch\f8\fs28\lang5129 Subtitle;}
+{\s24\snext24\qj\widctlpar\tx720\tx4320\faauto\li0\ri0\lin0\rin0\fi0\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe1033\dbch\af12\afs22\alang1025\loch\f4\fs22\lang2057 Body Text 2;}
+{\s25\snext25\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe1033\dbch\af10\afs16\alang1025\loch\f6\fs16\lang1033 Balloon Text;}
+}{\*\listtable{\list\listtemplateid1
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-432\li432}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-576\li576}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-720\li720}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-864\li864}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1008\li1008}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1152\li1152}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1296\li1296}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1440\li1440}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1584\li1584}\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li720}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li1080}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li1440}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li1800}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li2160}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li2520}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li2880}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li3240}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-360\li3600}\listid2}
+}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}{\info{\title Format for Paper Outlines - 2000}{\author Deanna Abbott-Cash}{\creatim\yr2006\mo12\dy12\hr16\min39}{\revtim\yr2013\mo11\dy13\hr15\min18}{\printim\yr2007\mo1\dy17\hr11\min26}{\comment LibreOffice}{\vern3500}}\deftab720\deftab720
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn11880\pghsxn16800\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\footery737{\footer\pard\plain \s20\ql\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0\noline\ltrpar\cf0\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\loch\f4\fs24\lang1033\qc\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0{\rtlch \ltrch
+{\field{\*\fldinst  PAGE }{\fldrslt 2}}}
+\par }\pgdscnxt0 Default;}
+{\pgdsc1\pgdscuse195\pgndec\pgwsxn11880\pghsxn16800\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn737\footery397\titlepg{\footerf\pard\plain \s20\ql\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0\noline\ltrpar\cf0\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\loch\f4\fs24\lang1033\qc\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0{\rtlch \ltrch
+{\field{\*\fldinst  PAGE }{\fldrslt 1}}}
+\par }\pgdscnxt0 First Page;}}
+\formshade{\*\pgdscno1}\paperh16800\paperw11880\margl1134\margr1134\margt1134\margb397\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11880\pghsxn16800\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\footery737{\footer\pard\plain \s20\ql\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0\noline\ltrpar\cf0\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\loch\f4\fs24\lang1033\qc\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0{\rtlch \ltrch
+{\field{\*\fldinst  PAGE }{\fldrslt 2}}}
+\par }\titlepg\titlepg{\footerf\pard\plain \s20\ql\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0\noline\ltrpar\cf0\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\loch\f4\fs24\lang1033\qc\widctlpar\tqc\tx4320\tqr\tx8640\faauto\li0\ri0\lin0\rin0\fi0{\rtlch \ltrch
+{\field{\*\fldinst  PAGE }{\fldrslt 1}}}
+\par }\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s22\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\ltrpar\cf0\b\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\ab\loch\f5\fs24\lang2057\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn{\b\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+MASSEY UNIVERSITY}
+\par \pard\plain \s1\ilvl0\outlinelevel0\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\ltrpar\cf0\b\kerning1\hich\af9\langfe1033\dbch\af12\afs24\alang1025\ab\loch\f5\fs24\lang2057{\listtext\pard\plain }\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn{\scaps\b\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Institute of Natural & Mathematical Sciences}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\i\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Paper Guide for 159.240 Programming for the Computational Sciences}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qc\widctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+159.240\tab Albany Campus\tab Internal mode\tab 15 credits}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Lecturer:}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+\tab Dr Alwyn Husselmann}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+\tab Room 3.05, Level 3 of IIMS Building}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+\tab (}{\cf1\i\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Some classes will be presented by guest lecturers}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+)}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Aim:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+To learn how to design and write computer programs in the area of scientific simulations and numerical calculations.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Prerequisites:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+159101 and 1601xx (students must have programming and mathematics experience)}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+How to calculate your final mark:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx2552\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Computer programs\tab }{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+45%}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx2552\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Final examination\tab }{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+55%}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Lecture weeks:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\sl360\slmult1\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\strike0\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Lectures will be presented during the following weeks:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\sl360\slmult1\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\strike0\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Monday 17 November to Friday 19 December 2014}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\strike0\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Monday 12 January to Monday 2 February 2015}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\strike0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Weekly Timetable:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\sl360\slmult1\qj\widctlpar\tx1418\tx2977\tx4395\faauto\li0\ri0\lin0\rin0\fi0{\cf1\strike0\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Monday\tab 9am \u8211\'13 10am\tab Lecture\tab QA4}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\sl360\slmult1\qj\widctlpar\tx1418\tx2977\tx4395\faauto\li0\ri0\lin0\rin0\fi0{\cf1\strike0\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Wednesday\tab 10am \u8211\'13 12pm\tab Lecture\tab QA4}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx1418\tx2977\tx4395\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+[}{\cf1\i\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+the lab time on Fridays will *not* be used}{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+]}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Internal Mode:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+This paper is offered in \u8220\'1cInternal Mode\u8221\'1d.  It is }{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+*not*}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+ offered as a distance learning course.  Internal Mode means that you must attend all classes on campus every week.  If you do not do this, you may struggle to successfully complete the paper.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Programming Assignments:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+There will be several programming assignments during the paper.  Programs will be written in the C or C++ programming language in the computer labs.  You are free to write programs at home, but you must ensure that these compile and run in the labs prior to submitting. Assignments will be submitted electronically via Stream.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Study Groups:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Students are encouraged to form study groups.  }{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Groups can submit an assignment together.}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+  Any assignment submitted by a group }{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+*must*}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+ have all IDs and names in a comment at the start of the assignment.  The groups can change from one assignment to the next.  Students may work on their own if they prefer to do that.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Stream site:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Make sure that you can access the Stream site for this paper.  }{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Lecture notes and assignments will be placed on Stream.  However, as this is an internal course, students should not assume that Stream is a substitute for classes.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Text Book:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ai\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+There is no set text book.  There is a huge amount of information online.  Students are encouraged to use Google and Wikipedia to find interesting online information that is relevant to the course.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx4320\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Deadlines and Penalties:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Assignments can be submitted up to one week late and marks will be deducted.  It is better to submit an assignment late rather than not submitting it at all.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\sl360\slmult1\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+** WITHDRAWING from the paper **}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+Scientific programming is not for everybody.  If you do decide to withdraw from this paper, make sure that you }{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+withdraw before Wednesday 26}{\cf1{\*\updnprop10000}\up14\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+th}{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+ November 2014}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+If you withdraw by this date you will not have to pay the fees.  }{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang2057\loch\f7
+If you withdraw from the paper later, you will be charged full fees and you may receive a failing grade.}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\qj\widctlpar\tx720\tx1701\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang2057
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\ab\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Topics covered:}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+A. }{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Topics that cause problems for scientific computing, including map co-ordinates, random number generation, precision of numbers, decimal to binary mapping, errors}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+B.}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+ Artificial Life, emergent systems, ant colonies}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+C.}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+ Agent-based simulations including overview, how to develop a simulation, problems that arise, visualization of results}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+D.}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+ Bio-inspired computing, genetic algorithms, evolutionary algorithms}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+E.}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+ Numerical integration, numerical differentiation, other numerical methods}
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch\lang5129
+
+\par \pard\plain \s0\ql\nowidctlpar\ltrpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af9\langfe2052\dbch\af11\afs24\alang1081\loch\f6\fs24\lang5129\ql\widctlpar\tx1134\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+F.}{\cf1\kerning1\hich\af9\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+ Using libraries, other languages and scripting languages}
+\par }
